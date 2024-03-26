@@ -1,4 +1,4 @@
-package models
+package tasks
 
 type Task struct {
 	ID          uint   `json:"id"`
